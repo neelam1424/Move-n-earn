@@ -30,7 +30,7 @@ npm start
 cd go-server
 go run main.go
 ```
-## 4. MongoDB Setup
+## MongoDB Setup
 ```
 Make sure MongoDB is installed and running.
 Update the MongoDB connection string in your Go code (typically in main.go):
