@@ -39,7 +39,8 @@ clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
 ```
 
 
-🔧 Features
+## 🔧 Features
+
 🔐 1. User Authentication & Role-based Signup
 
 Secure login and signup system.
