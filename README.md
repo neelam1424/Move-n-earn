@@ -75,7 +75,7 @@ Distance entered manually
 Formula used:
 Total Rate = Distance × Base Rate × Vehicle Size Multiplier
 
-###🧾 5. Billing & Confirmation
+### 🧾 5. Billing & Confirmation
 
 Once rate is calculated, a final bill is generated.
 
