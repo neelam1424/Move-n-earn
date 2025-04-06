@@ -124,21 +124,22 @@ Distance & rate computation
 Billing generation
 MongoDB communication
 
-Homepage
+## GUI
+### Homepage
 ![homepage](https://github.com/user-attachments/assets/3caa8f59-0c0d-4b0b-a4e0-a4202b8849e5)
-Popup
+### Popup
 ![popup](https://github.com/user-attachments/assets/5cdd1789-3dac-4036-907b-090cac20d9e9)
-Sign-Up for Client
+### Sign-Up for Client
 ![Sign-up](https://github.com/user-attachments/assets/4ad83139-826b-4136-a1db-e9f4b1c5ffc0)
-Sign-Up for Transporter 
+### Sign-Up for Transporter 
 ![SignupT](https://github.com/user-attachments/assets/61a8e773-5b06-4373-a743-eed9fe58a0e2)
-Login Page
+### Login Page
 ![Login](https://github.com/user-attachments/assets/ffc827a4-c518-443f-a1c9-08a3089a475e)
-Maps
+### Maps
 ![maps](https://github.com/user-attachments/assets/4d26d189-93e0-4ba0-b1ab-f2fc9c5ecdc4)
-Dashboard
+### Dashboard
 ![dashboard](https://github.com/user-attachments/assets/660958a3-ad53-4d60-8d28-c62f10b4fe51)
-Bill
+### Bill
 ![bill](https://github.com/user-attachments/assets/963625a8-d21e-428c-b46e-94bed7311cda)
 
 
