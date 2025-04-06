@@ -19,21 +19,24 @@ A full-stack application that allows users to track their movement and earn rewa
 ---
 
 ## To start FrontEnd (React)
+```
 cd move-n-earn/client
 npm install
 npm start
-
+```
 
 ## To start GOlang Server
+```
 cd go-server
 go run main.go
-
+```
 ## 4. MongoDB Setup
+```
 Make sure MongoDB is installed and running.
 Update the MongoDB connection string in your Go code (typically in main.go):
 
 clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
-
+```
 
 
 🔧 Features
