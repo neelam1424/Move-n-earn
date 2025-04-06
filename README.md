@@ -41,7 +41,7 @@ clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
 
 ## 🔧 Features
 
-🔐 1. User Authentication & Role-based Signup
+### 🔐 1. User Authentication & Role-based Signup
 
 Secure login and signup system.
 
@@ -52,20 +52,20 @@ Transporter: Users who offer transport services.
 Role-based access to features and dashboard data.
 Password hashing for secure credential storage.
 
-🧭 2. Manual Distance Calculation
+### 🧭 2. Manual Distance Calculation
 
 Users manually enter pickup and drop locations.
 System calculates the distance between those locations internally.
 Used as a base for pricing and billing logic.
 
-🚚 3. Vehicle Type & Size-Based Pricing
+### 🚚 3. Vehicle Type & Size-Based Pricing
 
 Users choose vehicle size/type (e.g., small, medium, large).
 Pricing is dynamically adjusted based on:
 Vehicle size
 Entered distance
 
-💸 4. Dynamic Rate Calculation
+### 💸 4. Dynamic Rate Calculation
 
 Total transportation rate is calculated using:
 Rate per km
@@ -75,7 +75,7 @@ Distance entered manually
 Formula used:
 Total Rate = Distance × Base Rate × Vehicle Size Multiplier
 
-🧾 5. Billing & Confirmation
+###🧾 5. Billing & Confirmation
 
 Once rate is calculated, a final bill is generated.
 
@@ -86,7 +86,7 @@ Total cost
 Client and transporter information
 Data is stored in MongoDB for record-keeping.
 
-📊 6. Interactive Dashboard
+### 📊 6. Interactive Dashboard
 
 Separate dashboards for:
 
@@ -99,7 +99,7 @@ Booking details
 Distance and rate breakdown
 Time stamps and user metadata
 
-📁 7. MongoDB Integration
+### 📁 7. MongoDB Integration
 
 MongoDB is used to store:
 
@@ -108,13 +108,13 @@ Booking details
 Billing records
 Structured collections for scalable data handling.
 
-💡 8. Clean, Responsive Frontend (React)
+###💡 8. Clean, Responsive Frontend (React)
 
 Built using React.js for fast and dynamic UI.
 Responsive design supports both desktop and mobile use.
 Form validation and error handling for smooth UX.
 
-🌐 9. Golang Middleware API
+### 🌐 9. Golang Middleware API
 
 Acts as a secure bridge between frontend and backend.
 
