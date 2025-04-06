@@ -108,7 +108,7 @@ Booking details
 Billing records
 Structured collections for scalable data handling.
 
-###💡 8. Clean, Responsive Frontend (React)
+### 💡 8. Clean, Responsive Frontend (React)
 
 Built using React.js for fast and dynamic UI.
 Responsive design supports both desktop and mobile use.
